@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "rodentdbs")(type "KiCad")(uri "$(KIPRJMOD)/rodentdbs.pretty")(options "")(descr ""))
+  (lib (name "rodentdbs")(type "KiCad")(uri "$(KIPRJMOD)/batterymodule.pretty")(options "")(descr ""))
 )
